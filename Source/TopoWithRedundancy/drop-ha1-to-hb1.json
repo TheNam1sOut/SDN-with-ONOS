@@ -1,0 +1,18 @@
+{
+  "priority": 50000,
+  "timeout": 0,
+  "isPermanent": true,
+  "deviceId": "of:0000000000000003",
+  "treatment": {
+    "instructions": []
+  },
+  "selector": {
+    "criteria": [
+      { "type": "ETH_TYPE", "ethType": "0x800" },   
+      { "type": "IPV4_SRC", "ip": "10.0.10.11/32" },
+      { "type": "IPV4_DST", "ip": "10.0.10.21/32" },
+      { "type": "IP_PROTO", "protocol": "1" },
+      { "type": "ICMPV4_TYPE", "icmpType": "8" }     
+    ]
+  }
+}
