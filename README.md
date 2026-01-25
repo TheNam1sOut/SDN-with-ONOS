@@ -1,4 +1,4 @@
-# SDN with ONOS
+# NT132-SDN-with-ONOS
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![ONOS Version](https://img.shields.io/badge/ONOS-2.7.0%2B-blue.svg)](https://onosproject.org/)
